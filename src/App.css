@@ -1,0 +1,5 @@
+.flex{
+  display:flex;
+  justify-items:space-between;
+  marging:5px;
+}
